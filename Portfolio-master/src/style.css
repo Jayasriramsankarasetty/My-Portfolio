@@ -162,6 +162,7 @@ button:focus {
 .logo {
   height: 2.2em !important;
   width: auto !important;
+  transform: scale(1.5);
 }
 
 .navbar-nav .nav-link {
