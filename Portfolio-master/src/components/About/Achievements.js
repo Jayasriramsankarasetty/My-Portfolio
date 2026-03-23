@@ -9,7 +9,7 @@ function Achievements() {
         <Card className="project-card-view">
           <Card.Body>
             <div style={{ textAlign: "left", padding: "10px" }}>
-              <span style={{ fontSize: "1.2em" }}>🔥 <strong className="purple">50-Day Streak on LeetCode</strong> (April 2026)</span>
+              <span style={{ fontSize: "1.2em" }}>🔥 <strong className="purple">50-Day Streak on LeetCode</strong> (2026)</span>
               <br />
               <br />
               <span style={{ fontSize: "0.9em", color: "#b3b3b3" }}>Maintained a 50-day daily problem-solving streak on LeetCode, showcasing consistency and strong discipline in Data Structures and Algorithms.</span>
@@ -22,7 +22,7 @@ function Achievements() {
         <Card className="project-card-view">
           <Card.Body>
             <div style={{ textAlign: "left", padding: "10px" }}>
-              <span style={{ fontSize: "1.2em" }}>💡 <strong className="purple">200+ LeetCode Problems Solved</strong> (April 2026)</span>
+              <span style={{ fontSize: "1.2em" }}>💡 <strong className="purple">200+ LeetCode Problems Solved</strong> (2026)</span>
               <br />
               <br />
               <span style={{ fontSize: "0.9em", color: "#b3b3b3" }}>Solved over 200 coding problems on LeetCode, strengthening problem-solving ability and algorithmic thinking across multiple topics.</span>
