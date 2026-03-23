@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirect</title>
+    <script>
+      // Redirect to index.html
+      var pathSegments = window.location.pathname.split('/').filter(function(p) { return p; });
+      window.location.replace('/' + (pathSegments[0] || '') + '/' + pathSegments.slice(1).join('/'));
+    </script>
+  </head>
+  <body></body>
+</html>
